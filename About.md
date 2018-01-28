@@ -1,6 +1,6 @@
 
   <h1> 
-  <font size="+2">
+  <font size="+4">
   <center> Robocytes </center>
   </font>
   </h1>
