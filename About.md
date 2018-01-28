@@ -19,8 +19,8 @@
 </body>
 </html>
 
-<i> Lymphocytes on Steroids! </i>
-</h2>
+<i> <center> Lymphocytes on Steroids! </i>
+</h2> </center> 
 <p> - Robocytes are the answer to uprising epidemics affecting third world countries and even parts of the eastern and western societies, these robotic lymphocytes are guaranteed to preserve and prolong the lifespan of the humans they assist.</p> 
 
 <h2> 
