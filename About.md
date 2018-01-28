@@ -1,12 +1,12 @@
 
   <h1> 
-  <center> <b>
+  <b>
+  <center>
   <font size="+3">
    Robocytes
       </font>
-  </b>
   </center>
-  
+  </b>
   </h1>
 <h2>
  
