@@ -20,7 +20,7 @@
 </html>
 
 <i> <center> Lymphocytes on Steroids! </center>  </i>
-[about]( https://github.com/TruthSerum/truthserum.github.io/blob/master/HowTheyWork.md) [FAQ](https://github.com/TruthSerum/truthserum.github.io/blob/master/Faq.md)
+<i><center>[ABOUT]( https://github.com/TruthSerum/truthserum.github.io/blob/master/HowTheyWork.md) [FAQ](https://github.com/TruthSerum/truthserum.github.io/blob/master/Faq.md) </center> </i>
 </h2>  
 <p> - Robocytes are the answer to uprising epidemics affecting third world countries and even parts of the eastern and western societies, these robotic lymphocytes are guaranteed to preserve and prolong the lifespan of the humans they assist.</p> 
 
