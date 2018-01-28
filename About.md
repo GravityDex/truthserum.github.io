@@ -1,11 +1,11 @@
-Robocytes
+<title>**Robocytes**</title> 
+_Lymphocytes on Steroids!_ 
 
-Lymphocites 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our Mission 
 
-### Markdown
+  Robocytes are the answer to uprising epidemics affecting third world countries and 
+              even parts of the eastern and western societies. these robotic lymphocytes are guaranteed to preserve and prolong the lifespan of the humans they assist. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
