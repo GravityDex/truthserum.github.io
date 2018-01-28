@@ -1,11 +1,14 @@
-<center>
-<h1> Robocytes </h1>
+
+  <h1> 
+  <center> Robocytes </center>
+  </h1>
 <h2>
+ 
 
 <html>
 <body>
 
-<img src="img/rbcaw.png" alt="First" width="500" height="377">
+<img src="img/rbcaw.png" alt="First" width="500" height="360">
 
 </body>
 </html>
@@ -44,4 +47,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-</center> 
