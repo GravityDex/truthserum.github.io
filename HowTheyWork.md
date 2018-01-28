@@ -1,6 +1,6 @@
 ## How They Work
 
-A serum is injected into the arm of the patient, the robotic lymphocytes immediately disperse through the bloodstream mainly venturing to the spleen, tonsils and lymph nodes where the initial immune response is likely to occur. The robocytes by then have encoded the body's genetic material.<!DOCTYPE html>
+A serum is injected into the arm of the patient, the robotic lymphocytes immediately disperse through the bloodstream mainly venturing to the spleen, tonsils and lymph nodes where the initial immune response is likely to occur. The robocytes by then have encoded the body's genetic material.
 <html>
 <body>
 
