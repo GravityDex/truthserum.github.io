@@ -9,7 +9,7 @@ _Lymphocytes on Steroids!_
 <html>
 <body>
 
-<img src="pulpitrock.jpg" alt="Mountain View" width="500" height="377">
+<img src="img/rbcaw.png" alt="Robocyte" width="500" height="377">
 
 </body>
 </html>
