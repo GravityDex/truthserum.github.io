@@ -15,6 +15,6 @@ The robocytes perform bodily circulations that ensures the body's chemistry is s
 ### Contact
 
  Check out our [documentation](https://www.cdc.gov/
-) or [contact support](https://github.com/TruthSerum/truthserum.github.io/blob/master/Faq.md
+) or [contact support](https://github.com/TruthSerum/truthserum.github.io/blob/master/Faq.md/
 
 ) and we’ll help you sort out difficulties.
