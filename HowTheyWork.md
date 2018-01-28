@@ -8,7 +8,7 @@ A serum is injected into the arm of the patient, the robotic lymphocytes immedia
 
 </body>
 </html> 
-The roboWhenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The robocytes perform bodily circulations that ensures the body's chemistry is stable and uninterrupted by external invasions. The robocytes are dormat until a possible threat is detected. If a bacteria Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
