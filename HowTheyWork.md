@@ -1,14 +1,13 @@
 ## How They Work
 
-A serum is injected into the arm of the patient, the robotic lymphocytes You can use the [editor on GitHub](https://github.com/TruthSerum/truthserum.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-<!DOCTYPE html>
+A serum is injected into the arm of the patient, the robotic lymphocytes immediately disperse through the bloodstream mainly venturing to the spleen, tonsils and lymph nodes where the initial immune response is likely to occur. The robocytes by then have encoded the body's genetic material.<!DOCTYPE html>
 <html>
 <body>
 
 <img src="img/Picture2.png" alt="HTW" width="500" height="377">
 
 </body>
-</html>
+</html> 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
