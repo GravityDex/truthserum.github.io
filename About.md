@@ -1,7 +1,7 @@
 #Robocytes 
 _Lymphocytes on Steroids!_ 
- Robocytes are the answer to uprising epidemics affecting third world countries and even parts of the eastern and western societies. these robotic lymphocytes are guaranteed to preserve and prolong the lifespan of the humans they assist. 
-##3 Rules Of a Robot 
+ <p> Robocytes are the answer to uprising epidemics affecting third world countries and even parts of the eastern and western societies. these robotic lymphocytes are guaranteed to preserve and prolong the lifespan of the humans they assist.</p> 
+<p> 3 Rules Of a Robot </p>
 ```markdown
 
 1. **I will cause no harm to my human** 
@@ -13,6 +13,13 @@ These microscopic robots leave no traces in the human body , when dormant they c
 
 [Link](url) and ![Image](src)
 ```
+<html>
+<body>
+
+<img src="img/rbcaw.png" alt="Robocyte" width="500" height="377">
+
+</body>
+</html>
 
 ### Our Mission 
 
