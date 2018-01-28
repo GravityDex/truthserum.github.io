@@ -1,0 +1,36 @@
+import React, { Component } from 'react';
+import logo from './digitaslbi-logo.png';
+import './App.css';
+
+const pets=['Bella','Princess'];
+
+function Pets (props) {
+  const names = props.names;
+  const listItems = names.map((name) =>
+  <li key={name}>
+  Hello, {name} 
+  </li>
+  );
+  return (<ul>{listItems}</ul>
+  ); 
+}
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <header className="App-header">
+          <img src={logo} className="App-logo" alt="logo" />
+          <h1 className="App-title">Robocites </h1>
+        </header>
+        <p className="App-intro">
+          Our Mission
+          Lymphocytes on Steroids! 
+        </p>
+        <Pets names={pets}/>
+        
+      </div>
+    );
+  }
+}
+
+export default App;
