@@ -2,7 +2,7 @@
   <h1 style="color:Black;"> 
   <b> 
   <center>
-  <font size="+6">
+  <font size="+10">
     <strong>ROBOCYTES</strong>
       </font>
   </center>
