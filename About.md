@@ -2,8 +2,8 @@
   <h1 style="color:Black;"> 
   <b> 
   <center>
-  <font size="+3">
-   Robocytes
+  <font size="+6">
+    <strong>ROBOCYTES</strong>
       </font>
   </center>
   </b>
