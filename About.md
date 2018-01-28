@@ -24,7 +24,7 @@
 <p> - Robocytes are the answer to uprising epidemics affecting third world countries and even parts of the eastern and western societies, these robotic lymphocytes are guaranteed to preserve and prolong the lifespan of the humans they assist.</p> 
 
 <h2> 
-<p> 3 Rules Of a Robot </p>
+<p> <center> 3 Rules Of a Robot </center> </p>
 </h2>
 
 
@@ -46,10 +46,4 @@ These microscopic robots leave no traces in the human body , when dormant they c
 ### Our Mission 
 
 We aspire to preserve the lives of billions through this vaccination that will kill off bacteria and viruses that could not be identified or cured. 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TruthSerum/truthserum.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
