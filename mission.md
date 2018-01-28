@@ -1,8 +1,6 @@
 ##  our mission statement 
 
-You can use the [editor on GitHub](https://github.com/TruthSerum/truthserum.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+we aspire to preserve the lives of billions through this vaccination that will kill off bacteria and viruses that could not be identified or cured. 
 
 ### Markdown
 
